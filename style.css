@@ -22,7 +22,7 @@ main {
 
 main > section img {
     height: 300px;
-    margin: 15px 0;
+    margin: 10px 0;
     width: auto;
 }
 
@@ -35,7 +35,8 @@ main > section button {
     font-size: 16px;
     font-weight: 600;
     letter-spacing: -0.6px;
-    line-height: 30px;
+    line-height: 15px;
+    margin-top: 5mm;
     padding: 9px 23px;
     text-transform: uppercase;
 }

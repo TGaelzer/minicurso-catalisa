@@ -23,7 +23,8 @@ main {
 main > section img {
     align-self: center;
     border-radius: 20px;
-    height: 500px;
+    height: 400px;
+    justify-self: center;
     margin: 10px 0;
     width: auto;
 }
@@ -49,4 +50,13 @@ main > section button {
     height: 30px;
     width: 90%;
 
+}
+
+#detalhes-container > li {
+    align-items: baseline;
+    display: flex;
+}
+
+#detalhes-container > li p {
+    color: whitesmoke;
 }

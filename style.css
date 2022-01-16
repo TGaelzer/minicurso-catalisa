@@ -21,7 +21,8 @@ main {
 }
 
 main > section img {
-    height: 300px;
+    align-self: center;
+    height: 500px;
     margin: 10px 0;
     width: auto;
 }
@@ -32,7 +33,7 @@ main > section button {
     border-radius: 40px;
     color: #062538;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 600;
     letter-spacing: -0.6px;
     line-height: 15px;
